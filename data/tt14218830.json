@@ -181,13 +181,8 @@
     [
         {
             "episode": 1,
-            "rating": 8.0,
-            "id": "tt26031060"
-        },
-        {
-            "episode": 2,
             "rating": 7.9,
-            "id": "tt30021390"
+            "id": "tt26031060"
         },
         {
             "episode": 3,
