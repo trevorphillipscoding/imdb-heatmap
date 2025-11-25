@@ -1801,17 +1801,17 @@
         },
         {
             "episode": 103,
-            "rating": 8.4,
+            "rating": 8.3,
             "id": "tt34422548"
         },
         {
             "episode": 104,
-            "rating": 8.4,
+            "rating": 8.3,
             "id": "tt34436149"
         },
         {
             "episode": 105,
-            "rating": 8.6,
+            "rating": 8.7,
             "id": "tt34439536"
         },
         {
@@ -1918,8 +1918,13 @@
         },
         {
             "episode": 5,
-            "rating": 7.7,
+            "rating": 7.6,
             "id": "tt38895748"
+        },
+        {
+            "episode": 6,
+            "rating": 8.6,
+            "id": "tt38941831"
         }
     ]
 ]
