@@ -226,8 +226,13 @@
         },
         {
             "episode": 8,
-            "rating": 9.2,
+            "rating": 9.1,
             "id": "tt38617648"
+        },
+        {
+            "episode": 9,
+            "rating": 9.1,
+            "id": "tt38617649"
         }
     ]
 ]
